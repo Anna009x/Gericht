@@ -1,0 +1,18 @@
+: root {
+    --main-color-text:#FFFFFF;
+    --accent-color:#DCCA87;
+    --color-text:#AAAAAA;
+    --color-grey:#272727;
+    --color-form:#F5EFDB;
+    --color-black:#0C0C0C;
+    --color-light-white:#FAFAFA;
+}
+
+body {
+    font-family:"Open Sans";
+}
+
+.container {
+    width: 1300px;
+    margin: 0 auto;
+}
