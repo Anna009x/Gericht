@@ -1,4 +1,4 @@
-: root {
+:root {
     --main-color-text:#FFFFFF;
     --accent-color:#DCCA87;
     --color-text:#AAAAAA;
@@ -15,4 +15,19 @@ body {
 .container {
     width: 1300px;
     margin: 0 auto;
+}
+
+/* header {
+    background-color: var(--color-black);
+} */
+
+.section-header {
+    background-color:var(--color-black);
+}
+
+.header-logo {
+    color: var(--main-color-text);
+    font-family: 'Cormorant Upright';
+    font-size: 44px;
+    font-weight: 700;
 }
